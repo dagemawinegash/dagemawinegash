@@ -8,7 +8,7 @@
 </h4>
 
 <div align="center">
-    <p>💬 Ask me about <strong>DSA, Web Development</strong></p>
+    <p>💬 Ask me about: <strong>DSA, Web Development</strong></p>
     <p>📫 How to reach me: <strong>dagemawibekele04@gmail.com</strong></p>
 </div>
 
