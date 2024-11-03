@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dagemawinegash.dagemawinegash" />
+![visitors](https://shields.io/badge/visitors-dagemawinegash-brightgreen)
