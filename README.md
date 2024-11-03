@@ -9,6 +9,7 @@
 - 📫 How to reach me **dagemawibekele04@gmail.com**
 
 <h3 align="center">✨ Connect with me ✨</h3>
+<br/>
 <p align="center">
 <a href="https://twitter.com/dagemawibekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dagemawibekele" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dagemawi-negash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagemawi-negash" height="30" width="40" /></a>
@@ -23,20 +24,15 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,bootstrap" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,mysql,aws,linux" /><br>
 </div>
-<br/>
 
 <h3 align="center">⚡ Stats ⚡</h3>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagemawinegash&show_icons=true&locale=en&layout=compact" alt="dagemawinegash" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagemawinegash&show_icons=true&locale=en" alt="dagemawinegash" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagemawinegash&" alt="dagemawinegash" /></p>
 
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
-  <br>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagemawinegash&label=Profile%20views&color=0e75b6&style=flat" alt="dagemawinegash" /> </p>
