@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dagemawi+Negash!;" />
 </h1>
 
-<h4 align="center">A passionate,forward-thinking Computer Science student at Addis Ababa University and a dedicated software developer. Driven by a commitment to integrate technology for a sustainable world by creating innovative solutions.</h4>
+<h4 align="center">A passionate, forward-thinking Computer Science student at Addis Ababa University and a dedicated software developer. Driven by a commitment to integrate technology for a sustainable world by creating innovative solutions.</h4>
 
 - 💬 Ask me about **React, JS, HTML, CSS**
 
@@ -35,6 +35,6 @@
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dagemawinegash/dagemawinegash/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
