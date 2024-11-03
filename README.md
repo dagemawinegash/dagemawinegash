@@ -30,7 +30,8 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
     </a>
 </p>
-
+<br><br>
+<br><br>
 <h3 align="center">⚒️ Languages & Tools ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,redux,bootstrap" alt="Skill Icons" />
