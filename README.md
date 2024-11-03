@@ -28,6 +28,7 @@
   <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagemawinegash&show_icons=true&locale=en&layout=compact" alt="dagemawinegash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagemawinegash&show_icons=true&locale=en" alt="dagemawinegash" /></p>
