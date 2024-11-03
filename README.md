@@ -38,11 +38,8 @@
 </div>
 
 <h3 align="center">⚡ Stats ⚡</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagemawinegash&show_icons=true&locale=en&layout=compact" alt="dagemawinegash" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagemawinegash&show_icons=true&locale=en" alt="dagemawinegash" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagemawinegash&" alt="dagemawinegash" /></p>
-
-<div align="center">
-    <h3>🐍 My Contributions 🐍</h3>
-    <img src="https://raw.githubusercontent.com/dagemawinegash/dagemawinegash/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<div>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagemawinegash&show_icons=true&locale=en&layout=compact" alt="dagemawinegash" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagemawinegash&show_icons=true&locale=en" alt="dagemawinegash" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagemawinegash&" alt="dagemawinegash" /></p>
 </div>
