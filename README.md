@@ -34,7 +34,7 @@
 <h3 align="center">⚒️ Languages & Tools ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git,github,figma,tailwind,git,redux,bootstrap" alt="Skill Icons" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,mysql,aws,linux,aws,django,npm,visualstudio,vite" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,cpp,java,mysql,linux,aws,django,npm,visualstudio,vite" alt="Skill Icons" />
 </div>
 
 <h3 align="center">⚡ Stats ⚡</h3>
